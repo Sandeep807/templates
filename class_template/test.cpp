@@ -29,7 +29,7 @@ int main()
     Test<int,string> t;
     t.setX(10);
     t.setName("Priyatam");
-
+    cout<<"Hiii"<<endl;
     t.display();
     return 0;
 }

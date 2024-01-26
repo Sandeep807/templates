@@ -30,6 +30,7 @@ int main()
     t.setX(10);
     t.setName("Priyatam");
     cout<<"Hiii"<<endl;
+    cout<<"Hello"<<endl;
     t.display();
     return 0;
 }
